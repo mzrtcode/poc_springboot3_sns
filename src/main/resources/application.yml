@@ -1,0 +1,5 @@
+aws:
+  access:
+    key: <access_key>  #No es necesario ni el secret key solo si quieres que no se tomen tus credenciales de sistema, entonces no deberias usar el DefaultCredentialsProvider
+    secret-key: <<secret_key>>
+  region: us-east-2
